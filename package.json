@@ -4,7 +4,8 @@
   "description": "Projeto criado no bootcamp OrangeTech da DIO.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "awesome": "sass assets/stylesheets/global.scss assets/stylesheets/global.css --watch"
   },
   "author": "Naira Geliana Cirino Santos",
   "license": "CC BY-NC-SA 3.0 BR"
