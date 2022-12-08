@@ -1,0 +1,11 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Projeto criado no bootcamp OrangeTech da DIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naira Geliana Cirino Santos",
+  "license": "CC BY-NC-SA 3.0 BR"
+}
